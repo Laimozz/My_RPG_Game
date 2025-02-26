@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FrostPhantomAnimator
+  m_Controller: {fileID: 9100000, guid: 1b4dd00506ba7024abc1ab42f1e608d2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c184af48cd192b64ea25421e2a5751d9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f0239a1d2670e8e43b8f1e481217cbbd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 50f2e7e23d813fc459b9d38d8a49da86, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f67e0060f59c32b43b501a075273dadb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 110659881bce3594798f651d708e4a53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9f557735ca871734ea34fa7faba929ad, type: 2}

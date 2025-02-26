@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class QuestData
+{
+    public string questID;
+    public int currentQuest;
+    public bool statusQuest;
+}
